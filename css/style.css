@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; background-color: #FFCEE4;
+}
+
+.navbar-expand-sm{
+    background-color: #DB09A1 !important;
+}
+
+form .btn-primary{
+    background-color: #939598;
+    border: 1px solid #939598;
+}
+
+.nav-link{
+    color: #939598;
+}
+
+.navbar-brand{
+    color: #939598;
+    font-weight: 900;
+    width: 300px;
+}
+.jail{width:60vh;}
+.carousel{width:60vh;}
+
+#demo{
+    margin: 0 auto;
+}
+.codafone{padding: 10px 100px 20px 100px; text-align: justify;}
+.headingcod{padding: 30px 100px 10px 100px;}
