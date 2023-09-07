@@ -6,9 +6,15 @@ body{
     background-color: #DB09A1 !important;
 }
 
-form .btn-primary{
+ .btn-primary{
     background-color: #939598;
     border: 1px solid #939598;
+}
+
+.btn-primary:hover{
+    background-color: #FFCEE4;
+    border: 1px solid #FFCEE4
+
 }
 
 .nav-link{
@@ -28,3 +34,21 @@ form .btn-primary{
 }
 .codafone{padding: 10px 100px 20px 100px; text-align: justify;}
 .headingcod{padding: 30px 100px 10px 100px;}
+
+.navbar-nav.me-auto{
+    display: none;
+}
+
+#mynavbar{
+    justify-content: flex-end !important;
+}
+
+.details{padding: 50px 30px 30px 50px;}
+.details2{padding: 150px; text-align: justify;
+
+}
+
+.card-img-top{
+    /* width: 250px !important; */
+}
+.card-body{background-color: whitesmoke; border: 2px solid #DB09A1;}
