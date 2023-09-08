@@ -1,7 +1,13 @@
 body{
-    font-family: Verdana, Geneva, Tahoma, sans-serif; background-color: #FFCEE4;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'; background-color: #FFCEE4; padding: 0px 0px 100px 0px;
 }
-
+h1, h2, h3, h4{font-weight: bold;}
+h1{font-size: 25px;}
+h2{font-size: 22px;}
+h3{font-size: 20px;}
+h4{font-size: 18px;}
+p{font-size: 18px;}
+td{font-size: 18px;}
 .navbar-expand-sm{
     background-color: #DB09A1 !important;
 }
@@ -44,7 +50,7 @@ body{
 }
 
 .details{padding: 50px 30px 30px 50px;}
-.details2{padding: 150px; text-align: justify;
+.details2{padding: 150px; text-align: justify; font-size: 18px;
 
 }
 
@@ -52,3 +58,4 @@ body{
     /* width: 250px !important; */
 }
 .card-body{background-color: whitesmoke; border: 2px solid #DB09A1;}
+
